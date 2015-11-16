@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ruben Gerits</title>
+    <description>I&#39;m a java developer from Belgium. In my spare time I create some  applications that are usefull in my personal life. On this site you&#39;ll  find some of the applications I created. 
+</description>
+    <link>http://rubengerits.be/</link>
+    <atom:link href="http://rubengerits.be/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 16 Nov 2015 19:57:50 +0100</pubDate>
+    <lastBuildDate>Mon, 16 Nov 2015 19:57:50 +0100</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>New website</title>
+        <description>&lt;p&gt;New website launched. I’m moving all my projects to github, to keep everything in one place, so I’m moving my website as well. &lt;/p&gt;
+
+&lt;p&gt;It is running on the by github supported blog framework Jekyll. &lt;/p&gt;
+</description>
+        <pubDate>Mon, 16 Nov 2015 22:17:24 +0100</pubDate>
+        <link>http://rubengerits.be/site/2015/11/16/new-website.html</link>
+        <guid isPermaLink="true">http://rubengerits.be/site/2015/11/16/new-website.html</guid>
+        
+        
+        <category>site</category>
+        
+      </item>
+    
+      <item>
+        <title>Speed</title>
+        <description>&lt;p&gt;Speed is created to give you an accurate indication of your speed.&lt;/p&gt;
+
+&lt;p&gt;Features:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Showing your speed (mph and km/h)&lt;/li&gt;
+  &lt;li&gt;Chronometer&lt;/li&gt;
+  &lt;li&gt;Tracking your maximum speed&lt;/li&gt;
+  &lt;li&gt;Indication for your position.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/screenshot-speed-01.png&quot; alt=&quot;Speed screenshot 01&quot; /&gt;
+&lt;img src=&quot;/assets/screenshot-speed-02.png&quot; alt=&quot;Speed screenshot 02&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=be.rubengerits.speed&quot;&gt;play store&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/gerits/speed&quot;&gt;github&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 15 Nov 2015 22:17:24 +0100</pubDate>
+        <link>http://rubengerits.be/project/2015/11/15/speed.html</link>
+        <guid isPermaLink="true">http://rubengerits.be/project/2015/11/15/speed.html</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Devoxx Notes</title>
+        <description>&lt;p&gt;Take notes during Devoxx&lt;/p&gt;
+
+&lt;p&gt;Take notes during the presentations at Devoxx (Belgium). All your notes and photo’s grouped in one application.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/screenshot-devoxx-notes-01.png&quot; alt=&quot;Devoxx Notes screenshot 01&quot; /&gt;
+&lt;img src=&quot;/assets/screenshot-devoxx-notes-02.png&quot; alt=&quot;Devoxx Notes screenshot 02&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Nov 2015 22:17:24 +0100</pubDate>
+        <link>http://rubengerits.be/project/2015/11/01/devoxx-notes.html</link>
+        <guid isPermaLink="true">http://rubengerits.be/project/2015/11/01/devoxx-notes.html</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Devoxx Schedule</title>
+        <description>&lt;p&gt;Unofficial schedule application for Devoxx&lt;/p&gt;
+
+&lt;p&gt;Unofficial schedule application for Devoxx (Belgium). Browse and search through all the sessions at Devoxx as fast as possible.&lt;/p&gt;
+
+&lt;p&gt;You can get notifications of your favorite talks so you won’t have to miss anything.&amp;lt;/p&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/screenshot-devoxx-schedule-01.png&quot; alt=&quot;Devoxx Schedule screenshot 01&quot; /&gt;
+&lt;img src=&quot;/assets/screenshot-devoxx-schedule-02.png&quot; alt=&quot;Devoxx Schedule screenshot 02&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 01 Nov 2014 22:17:24 +0100</pubDate>
+        <link>http://rubengerits.be/project/2014/11/01/devoxx-schedule.html</link>
+        <guid isPermaLink="true">http://rubengerits.be/project/2014/11/01/devoxx-schedule.html</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+  </channel>
+</rss>
