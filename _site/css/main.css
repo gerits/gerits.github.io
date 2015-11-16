@@ -66,8 +66,6 @@ h1, h2, h3, h4, h5, h6 {
 a {
   color: #1D6339;
   text-decoration: none; }
-  a:visited {
-    color: #0c2817; }
   a:hover {
     color: #111;
     text-decoration: underline; }
@@ -146,11 +144,9 @@ pre {
  * Site header
  */
 .site-header {
-  border-top: 5px solid #424242;
-  border-bottom: 1px solid #e8e8e8;
+  border-top: 5px solid #1D6339;
   min-height: 56px;
-  position: relative;
-  border-bottom: 5px solid #1D6339; }
+  position: relative; }
 
 .site-title {
   font-size: 26px;
@@ -208,7 +204,8 @@ pre {
  */
 .site-footer {
   border-top: 1px solid #e8e8e8;
-  padding: 30px 0; }
+  padding: 30px 0;
+  background-color: #e8e8e8; }
 
 .footer-heading {
   font-size: 18px;
