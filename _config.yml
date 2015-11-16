@@ -1,0 +1,14 @@
+# Site settings
+title: Ruben Gerits
+email: info@rubengerits.be
+description: > 
+  I'm a java developer from Belgium. In my spare time I create some 
+  applications that are usefull in my personal life. On this site you'll 
+  find some of the applications I created. 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://rubengerits.be" # the base hostname & protocol for your site
+twitter_username: rubengerits
+github_username:  gerits
+
+# Build settings
+markdown: kramdown
