@@ -16,9 +16,9 @@
     margin-bottom: 0;
     float: left;
 
-    &,
-    &:visited {
-        color: $grey-color-dark;
+    &:hover {
+        color: $brand-color;
+        text-decoration: none;
     }
 }
 

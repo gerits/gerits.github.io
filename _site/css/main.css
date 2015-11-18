@@ -154,8 +154,9 @@ pre {
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left; }
-  .site-title, .site-title:visited {
-    color: #424242; }
+  .site-title:hover {
+    color: #1D6339;
+    text-decoration: none; }
 
 .site-nav {
   float: right;
