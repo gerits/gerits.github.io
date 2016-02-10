@@ -4,11 +4,34 @@
     <title>Ruben Gerits</title>
     <description>I&#39;m a java developer from Belgium. In my spare time I create some  applications that are usefull in my personal life. On this site you&#39;ll  find some of the applications I created. 
 </description>
-    <link>http://rubengerits.be/</link>
-    <atom:link href="http://rubengerits.be/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 18 Nov 2015 08:47:47 +0100</pubDate>
-    <lastBuildDate>Wed, 18 Nov 2015 08:47:47 +0100</lastBuildDate>
+    <link>http://www.rubengerits.be/</link>
+    <atom:link href="http://www.rubengerits.be/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 10 Feb 2016 19:17:31 +0100</pubDate>
+    <lastBuildDate>Wed, 10 Feb 2016 19:17:31 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Build Status</title>
+        <description>&lt;p&gt;Build status will give you an overview of the status of your projects.&lt;/p&gt;
+
+&lt;p&gt;This project is a frontend for Travis-CI. A continuous integration platform for github. The goal of this app is to see the status as fast as possible.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Frontend: Android app&lt;/li&gt;
+  &lt;li&gt;Gateway: NodeJS&lt;/li&gt;
+  &lt;li&gt;Backend: Travis-CI&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/screenshot-build-status-01.png&quot; alt=&quot;Build Status screenshot 01&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 10 Feb 2016 20:34:13 +0100</pubDate>
+        <link>http://www.rubengerits.be/project/2016/02/10/build-status.html</link>
+        <guid isPermaLink="true">http://www.rubengerits.be/project/2016/02/10/build-status.html</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
     
       <item>
         <title>New website</title>
@@ -17,8 +40,8 @@
 &lt;p&gt;It is running on the by github supported blog framework Jekyll. &lt;/p&gt;
 </description>
         <pubDate>Mon, 16 Nov 2015 22:17:24 +0100</pubDate>
-        <link>http://rubengerits.be/site/2015/11/16/new-website.html</link>
-        <guid isPermaLink="true">http://rubengerits.be/site/2015/11/16/new-website.html</guid>
+        <link>http://www.rubengerits.be/site/2015/11/16/new-website.html</link>
+        <guid isPermaLink="true">http://www.rubengerits.be/site/2015/11/16/new-website.html</guid>
         
         
         <category>site</category>
@@ -47,8 +70,8 @@
 
 </description>
         <pubDate>Sun, 15 Nov 2015 22:17:24 +0100</pubDate>
-        <link>http://rubengerits.be/project/2015/11/15/speed.html</link>
-        <guid isPermaLink="true">http://rubengerits.be/project/2015/11/15/speed.html</guid>
+        <link>http://www.rubengerits.be/project/2015/11/15/speed.html</link>
+        <guid isPermaLink="true">http://www.rubengerits.be/project/2015/11/15/speed.html</guid>
         
         
         <category>project</category>
@@ -65,8 +88,8 @@
 &lt;img src=&quot;/assets/screenshot-devoxx-notes-02.png&quot; alt=&quot;Devoxx Notes screenshot 02&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Nov 2015 22:17:24 +0100</pubDate>
-        <link>http://rubengerits.be/project/2015/11/01/devoxx-notes.html</link>
-        <guid isPermaLink="true">http://rubengerits.be/project/2015/11/01/devoxx-notes.html</guid>
+        <link>http://www.rubengerits.be/project/2015/11/01/devoxx-notes.html</link>
+        <guid isPermaLink="true">http://www.rubengerits.be/project/2015/11/01/devoxx-notes.html</guid>
         
         
         <category>project</category>
@@ -85,8 +108,8 @@
 &lt;img src=&quot;/assets/screenshot-devoxx-schedule-02.png&quot; alt=&quot;Devoxx Schedule screenshot 02&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Nov 2014 22:17:24 +0100</pubDate>
-        <link>http://rubengerits.be/project/2014/11/01/devoxx-schedule.html</link>
-        <guid isPermaLink="true">http://rubengerits.be/project/2014/11/01/devoxx-schedule.html</guid>
+        <link>http://www.rubengerits.be/project/2014/11/01/devoxx-schedule.html</link>
+        <guid isPermaLink="true">http://www.rubengerits.be/project/2014/11/01/devoxx-schedule.html</guid>
         
         
         <category>project</category>
