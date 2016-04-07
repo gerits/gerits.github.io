@@ -9,6 +9,7 @@ baseurl: ""
 url: "http://www.rubengerits.be" 
 twitter_username: rubengerits
 github_username:  gerits
+exclude: [vendor]
 
 # Build settings
 markdown: kramdown
