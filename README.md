@@ -1,6 +1,3 @@
 # gerits.github.io
 
-Personal website, hosted on github.io
-
-framework:
-- Jekyll
+Future home to my personal portofolio website.
